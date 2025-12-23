@@ -32,7 +32,9 @@ I build portfolio sites, e-commerce platforms, simple games, and integrate smart
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professor-x1&hide_progress=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professor-x1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professor-x1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
 <a href="https://komarev.com/ghpvc/?username=professor-x1&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=professor-x1&style=for-the-badge">
 </a>
